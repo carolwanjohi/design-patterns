@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d0408bc8-c0e0-40e1-9679-bb8a5873c03b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/design/patterns/creational/prototype/F16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/design/patterns/creational/prototype/F16AEngine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/design/patterns/creational/prototype/F16BEngine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/design/patterns/creational/prototype/F16Engine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/design/patterns/creational/prototype/IAircraftPrototype.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/design/patterns/creational/prototype/IF16Engine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/design/patterns/creational/prototype/PrototypeMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/design/patterns/creational/prototype/PrototypeMain.java" afterDir="false" />
-    </list>
+    <list default="true" id="d0408bc8-c0e0-40e1-9679-bb8a5873c03b" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
