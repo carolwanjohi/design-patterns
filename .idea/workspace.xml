@@ -5,9 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d0408bc8-c0e0-40e1-9679-bb8a5873c03b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/design/patterns/creational/singleton/AirForceOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/design/patterns/creational/prototype/F16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/design/patterns/creational/prototype/F16AEngine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/design/patterns/creational/prototype/F16BEngine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/design/patterns/creational/prototype/F16Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/design/patterns/creational/prototype/IAircraftPrototype.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/design/patterns/creational/prototype/IF16Engine.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/design/patterns/creational/singleton/SingletonMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/design/patterns/creational/singleton/SingletonMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/design/patterns/creational/prototype/PrototypeMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/design/patterns/creational/prototype/PrototypeMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +53,11 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.design.patterns.creational.prototype" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.design.patterns.creational.prototype" />
       <recent name="org.design.patterns.structural" />
       <recent name="org.design.patterns.singleton" />
       <recent name="org.design.patterns.builder" />
@@ -59,13 +68,26 @@
       <command value="BuilderMain" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.SingletonMain">
+  <component name="RunManager" selected="Application.PrototypeMain">
     <configuration name="BuilderMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.design.patterns.creational.builder.BuilderMain" />
       <module name="design-patterns.main" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.design.patterns.creational.builder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrototypeMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.design.patterns.creational.prototype.PrototypeMain" />
+      <module name="design-patterns.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.design.patterns.creational.prototype.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,6 +110,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PrototypeMain" />
         <item itemvalue="Application.SingletonMain" />
         <item itemvalue="Application.BuilderMain" />
       </list>
