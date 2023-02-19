@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d0408bc8-c0e0-40e1-9679-bb8a5873c03b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/design/patterns/creational/singleton/AirForceOne.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/design/patterns/behavioral/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/design/patterns/behavioral/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/design/patterns/creational/builder/BuilderMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/design/patterns/creational/builder/BuilderMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/design/patterns/creational/prototype/PrototypeMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/design/patterns/creational/prototype/PrototypeMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/design/patterns/creational/singleton/SingletonMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/design/patterns/creational/singleton/SingletonMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/design/patterns/structural/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/design/patterns/structural/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +59,7 @@
       <command value="BuilderMain" />
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.SingletonMain">
     <configuration name="BuilderMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.design.patterns.creational.builder.BuilderMain" />
       <module name="design-patterns.main" />
@@ -77,8 +73,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SingletonMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.design.patterns.creational.singleton.SingletonMain" />
+      <module name="design-patterns.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.design.patterns.creational.singleton.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SingletonMain" />
         <item itemvalue="Application.BuilderMain" />
       </list>
     </recent_temporary>
