@@ -1,9 +1,18 @@
 package org.design.patterns.creational.factory.method;
 
+/** 
+ * As a superclass, it has the implementation for all the methods
+ * Create method is either:
+ * 1. abstract, like in the current example.
+ * 2. general implementation
+**/
 public class F16 {
     ICockpit cockpit;
     IEngine engine;
 
+    /** 
+     * Helps with implementing Open/Close priciple
+    **/
     protected F16 makeF16() {
         cockpit = new F16Cockpit();
         engine = new F16Engine();
